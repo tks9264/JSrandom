@@ -1,0 +1,36 @@
+
+}
+body {
+	font-color: #00008B;
+	font-family: monospace;
+	background-size: cover;
+	height: 100%;
+
+}
+
+h1{
+	font-color: #800000;
+	font-family: monospace;
+	font-size: 200px;
+
+}
+
+input, button{
+	font-size: 1rem;
+}
+
+p {
+	font-family: monospace;
+	width: 900px;
+
+
+#outputText {
+	font-family: monospace;
+	padding: 2vmin;
+	transition: all 2s;
+}
+
+
+}
+
+body { background-color: #ADD8E6 }
